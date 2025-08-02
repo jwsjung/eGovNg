@@ -1,0 +1,32 @@
+[
+  {
+    "business_number": "123-45-67890",
+    "status": "INVALID",
+    "message": "유효하지 않은 사업자등록번호입니다.",
+    "checked_at": "2025-08-02T08:20:37.688936"
+  },
+  {
+    "business_number": "987-65-43210",
+    "status": "INVALID",
+    "message": "유효하지 않은 사업자등록번호입니다.",
+    "checked_at": "2025-08-02T08:20:37.688942"
+  },
+  {
+    "business_number": "555-55-55555",
+    "status": "INVALID",
+    "message": "유효하지 않은 사업자등록번호입니다.",
+    "checked_at": "2025-08-02T08:20:37.688946"
+  },
+  {
+    "business_number": "invalid-number",
+    "status": "INVALID",
+    "message": "유효하지 않은 사업자등록번호입니다.",
+    "checked_at": "2025-08-02T08:20:37.688949"
+  },
+  {
+    "business_number": "1234567890",
+    "status": "INVALID",
+    "message": "유효하지 않은 사업자등록번호입니다.",
+    "checked_at": "2025-08-02T08:20:37.688951"
+  }
+]
